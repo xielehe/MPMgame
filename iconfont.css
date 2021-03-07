@@ -1,0 +1,33 @@
+/*圖標*/
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1615040999868'); /* IE9 */
+  src: url('iconfont.eot?t=1615040999868#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP0AAsAAAAACCgAAAOlAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDDAqDXIM6ATYCJAMQCwoABCAFhG0HXRsxB8gOJaHAiABgIIFkBF/7sX13h2oS0e7TRRuNxJCqdKuERqREz17C///fs+5LBhk7Kw3MYpwqSZ2eNF0wHXA/Jf1Bf8VC/J4/7qcuLQHzAc0lI/nTboCjBBpYVNJsYiGMWw5nXoVH12ECjQYshHaqGyVAKMioQFzoWCUQKZ1SUxzqhdqShQXiGjzVp3HsAYAr//fxD+lBgKQmA5m4e16lgdIv4oMvLk6Jel0U8MezQFxGxhxQiNNS2z48jM3BNeoxDxNgXb2CL9+pii/C5a32L48sCaIWSGEzWIN45ouwebHcBzQSyH1BcOJdCqiHmO8GwAsQQp/0pE4M+tO3B/oGBCLvFcyBiWtiTJuk/cjEXIlDlDon5fKj9vnt8rb9kzftCsm6iSP2KPnGycOiYdLdAn7hcq11SDycztCVGA/9zB6nM+HWIbF2enDTDgeZdjulbveMbHdJnE6x0Gx3dzmfIHTZOekusM4hw5dKUBDux2j8sNwzGEEEJYcs+s2MT1Teb7pvMLRJXzKKtO0lW930WtO1yolxJmnRtOQTZ27d2hyXEbf51u1N3sRY2Ovfe3j2UE/1Ha/uz/1zMRsoM7y6ytdVrccO1kXuX19R3lu9Hh2sj9y3LtL2LCpRe3vZuvVYnTgKyh+02tFgM0ZhzgZ2tAYNNWLKjKFmsbwfUywgma8fUSiwUI+pXLdgCUaFr1GEY5KgcswxW7AEaVh0PQKXT/tDa0Nq918EC0D1Lm/D4wEqMb/GRTkxlcNw9GMHeeTmNFFBhf8Jvyus+9Sd+eh7K7FA+zz1EiL/N/JbVhRDSPSlaCKbZ04rzniDhEYapALi6vRiDEcPiC2hXuIDJHX6Ias3hi74OajRZA1q1VuHRrNqljfpwsNF8QFmDCMI7U5C0uoZsnYP0QX/HGr0+g612gOHRscRtmGTidD5VvC0UqA1pGoZqVNzZoYZBd+guJ1mbUYlnxT6VBnNW3VBMi05NZusoc00P8YU62I2XRAYkuE5E1mNjqONRo608JyeVgvJWkGw5KekMGUvSlZzJvC1jUdTEtA0SCrLkHTUOGaMW1vgm/t+OxrLxkiJr0HUWWVoPCtd56Q0yVJboGtk5laIa3nGajFWOoGAQWLwOCakamShGWmMQ7KU99OjqQmSaXtELPKl4GpMW1ny/ArTE26DRmTjEhjCkQfyhK6lzNRFS5QGm9LM6nXOJANnZv0Fm0qn5Ci9zuxnBi4zLqOs2irpcqwFAAAAAA==') format('woff2'),
+  url('iconfont.woff?t=1615040999868') format('woff'),
+  url('iconfont.ttf?t=1615040999868') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1615040999868#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:#1afa29
+}
+
+.icon040-wakuangjiankong:before {
+  content: "\e60a";
+}
+
+.icontubiao_jinbi:before {
+  content: "\e609";
+}
+
+.iconyly_shangzhang:before {
+  content: "\e608";
+}
+
+
+
